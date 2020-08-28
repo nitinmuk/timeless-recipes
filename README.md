@@ -20,7 +20,7 @@ Find the application live on Heroku [here](https://timeless-recipes.herokuapp.co
 ## Installation
 To use this application locally, be sure to have NODE.js and MySQL installed on your local machine. Clone the files. Open the directory and run `npm install` to install dependencies. You will require API keys for Spoonacular and one AWS S3 bucket configured along with a AWS bucket access key, and store these keys in a env file in main directory, along with your MySQL user/database information.
 
-Alternatively, you can use this application through [Heroku](https://fast-reaches-40282.herokuapp.com/).
+Alternatively, you can use this application through [Heroku](https://timeless-recipes.herokuapp.com/).
 
 ## Usage
 
