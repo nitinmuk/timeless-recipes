@@ -6,7 +6,7 @@
 
 Store your favourite recipes digitally, protected from wear and tear around the kitchen. Search through your recipe efficiently, by name or ingredient. Find inspiration from other users by browsing their recipes you struggle to think of "What's for dinner?". 
 
-Find the application live on Heroku [here](https://fast-reaches-40282.herokuapp.com/).
+Find the application live on Heroku [here](https://timeless-recipes.herokuapp.com/).
 
 ## Table of Contents
 * [Installation](#installation)
