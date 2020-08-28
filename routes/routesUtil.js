@@ -53,7 +53,7 @@ const generateImageUrlToSave = async request => {
     // call S3 to retrieve upload file to specified bucket
     s3.upload(uploadParams, (error, data) => {
       if (error) {
-        console.log("Error", error);
+        console.log("Error ocurred while uploading file to S3 bucket", error);
       }
       if (data) {
         console.log("Upload Success", data.Location);
